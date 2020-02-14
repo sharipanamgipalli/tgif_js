@@ -1,0 +1,68 @@
+
+.header p a{
+   padding-right: 50px;
+    
+}
+.header img {
+    
+}
+.navbar a{
+    color: ivory;
+    font-family: 'PT Sans', sans-serif;
+    text-transform: uppercase;
+}
+.header img{
+    
+}
+nav {
+    background-color: rgba(70, 131, 180, 0.884);
+   
+}
+.content{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.container {
+    
+    margin: 0px;
+}
+h2{
+padding-left: 20px;
+font-family: 'Quicksand';
+text-transform: uppercase;
+}
+
+.text {
+    padding: 30px;
+}
+.senators,.congress{
+    border: 3px solid grey;
+    margin: 50px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    
+}
+.footer {
+    display: flex;
+    justify-content: center;
+}
+
+.card_header {
+    display: flex;
+    justify-content: center;
+    background-color: rgba(70, 131, 180, 0.884);
+   
+}
+
+.labels{
+    margin: 10px;
+    color: black;
+}  
+
+.box{
+    margin: 5px;
+}
+.thead{
+    background-color: rgba(70, 131, 180, 0.884);
+}
