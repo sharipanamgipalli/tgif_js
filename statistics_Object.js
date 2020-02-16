@@ -188,7 +188,7 @@ function getEngageTable(members){
            
     
        })
-      /*console.log("DESCENDING ORDER ARRAY" +leastEngaged[i].missed_votes_pct)*/
+      
     }
     for(let n=0; n<(leastEngaged.length)*0.1;n++){
         statistcs.least_Engaged_pct.push(leastEngaged[n])

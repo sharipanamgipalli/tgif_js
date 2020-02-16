@@ -66,3 +66,15 @@ text-transform: uppercase;
 .thead{
     background-color: rgba(70, 131, 180, 0.884);
 }
+
+.font{
+font-family: 'PT Sans', sans-serif;
+    text-transform: uppercase;
+}
+.tab {
+    margin: 20px;
+}
+.page-img{
+    position: sticky;
+    
+}
